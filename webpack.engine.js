@@ -1,8 +1,8 @@
 const path = require('path');
-const Package = require('./package');
+
 
 module.exports = {
-  entry: './dist/index.js',
+  entry: './dist/esm/index.js',
   devtool: 'inline-source-map',
   performance: {
       hints: false

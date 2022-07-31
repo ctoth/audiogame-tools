@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "./dist/",
+    "outDir": "./dist/esm",
     "noImplicitAny": false,
     "module": "es6",
     "target": "es6",
